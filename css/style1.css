@@ -12,20 +12,12 @@ img, object, embed, video {
 	width:100%;
 }
 
-/*
-	Dreamweaver Fluid Grid Properties
-	----------------------------------
-	dw-num-cols-mobile:		4;
-	dw-num-cols-tablet:		8;
-	dw-num-cols-desktop:	12;
-	dw-gutter-percentage:	25;
-	
-	Inspiration from "Responsive Web Design" by Ethan Marcotte 
-	http://www.alistapart.com/articles/responsive-web-design
-	
-	and Golden Grid System by Joni Korpi
-	http://goldengridsystem.com/
-*/
+/* body {
+	background-color: #000;
+	color: #ffffff;
+   }*/
+
+
 
 .fluid {
 	clear: both;
@@ -61,13 +53,13 @@ img, object, embed, video {
     display: none;
 }
 h1 {
-	color: #000000;
+	
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	
 	font-variant: small-caps;
 }
 h2 {
-color: #000000;
+
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-size: medium;
 	font-weight: bold;
@@ -98,7 +90,7 @@ color: #000000;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	}
 	h1 {
-	color: #000000;
+	
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	font-size: medium;
 	}
